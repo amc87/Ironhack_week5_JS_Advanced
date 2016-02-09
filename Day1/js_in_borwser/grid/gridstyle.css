@@ -1,0 +1,14 @@
+.container {
+	width: 300px;
+}
+
+.cell {
+	width: 20px;
+	height: 20px;
+	background-color: yellow;
+	float: left;
+}
+
+.active {
+	background-color: blue;
+}

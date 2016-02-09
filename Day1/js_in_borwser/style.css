@@ -1,0 +1,19 @@
+.title {
+	color: blue;
+}
+
+.my-class {
+	color: red;
+}
+
+.container {
+	width: 400px;
+}
+
+.cell {
+	width: 20px;
+	height: 20px;
+	background-color: yellow;
+	float: left;
+}
+
