@@ -38,7 +38,6 @@ $(document).ready(function(){
 	})
 
 	function showAlbums(album_profile, index, ar){
-		debugger
 
 		$(".modal-body").append("<p><a href='" + album_profile.external_urls.spotify + "' target='_blank'>" + album_profile.name + "</p>");
 
